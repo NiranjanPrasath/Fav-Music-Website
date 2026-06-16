@@ -1,0 +1,98 @@
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\bin\Debug\net10.0\appsettings.json
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\bin\Debug\net10.0\Fav Song Website.staticwebassets.runtime.json
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\bin\Debug\net10.0\Fav Song Website.staticwebassets.endpoints.json
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\bin\Debug\net10.0\Fav Song Website.exe
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\bin\Debug\net10.0\Fav Song Website.deps.json
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\bin\Debug\net10.0\Fav Song Website.runtimeconfig.json
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\bin\Debug\net10.0\Fav Song Website.dll
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\bin\Debug\net10.0\Fav Song Website.pdb
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\Fav Song Website.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\Fav Song Website.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\Fav Song Website.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\Fav Song Website.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\Fav Song Website.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\Fav Song Website.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\Fav Song Website.RazorAssemblyInfo.cs
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\scopedcss\bundle\Fav Song Website.styles.css
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\scopedcss\projectbundle\Fav Song Website.bundle.scp.css
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\lhkhjf6ync-{0}-rbou8qcaiu-rbou8qcaiu.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\b44le0gtwm-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\rzk1fsq5jl-{0}-yfpxr0oate-yfpxr0oate.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\b59cczz4c6-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\hlv788y8ml-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\bv0qdi589x-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\t0w5kp5cwh-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\wrx2utdtax-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\37sac8nnwt-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\doxcd5tj4q-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\0wpyc1qttl-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\szjyla6gsh-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\7lmhztxq93-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\h7buk5d724-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\vu6aqun54h-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\molh9xxpx9-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\le5ppqxgce-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\4fn4xv7myf-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\ysfsqtcr5g-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\93jb7rph9h-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\vmborodwvj-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\4eeamac8ug-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\ho6qqxot90-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\357dcrzb70-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\4bpqyc5lp7-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\y9eeu7y1ss-{0}-06098lyss8-06098lyss8.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\2mo1sbb6z7-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\3a3wnj15j6-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\dmvnzf1f8m-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\t7n173yxd4-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\yfjkuw87ov-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\jl83wxrpt6-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\x3b1go6irx-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\kjlp71e6ml-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\u1uwtho03u-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\ecr2784paz-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\a6umv89y2j-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\qkkh994euo-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\nxc606g5ap-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\f09quxw9yr-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\id5t6gauqm-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\yoane4vt3v-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\ko1fqju79b-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\phder493ru-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\u427hjmkad-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\ylzbyhcyxq-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\glgaf1nbgf-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\nuo4ajn9vn-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\sgrebn6axa-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\t3po4j2gf0-{0}-356vix0kms-356vix0kms.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\rk829i35v6-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\1bu5mvevs2-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\cptb87vej7-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\l5lvx2ukw4-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\aww3yni4uo-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\po5kad8gy1-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\fyff14aqsv-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\4kdm8mtd0g-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\nv84yddsov-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\2snv0z56i6-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\z9qiukvyf9-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\lghtsvl4bm-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\x24r15lpjg-{0}-kc3l6f99ms-kc3l6f99ms.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\compressed\k09hptx1qf-{0}-kc3l6f99ms-kc3l6f99ms.gz
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\Fav Song Website.dll
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\refint\Fav Song Website.dll
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\Fav Song Website.pdb
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\Fav Song Website.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Fav Song Website\Fav Song Website\obj\Debug\net10.0\ref\Fav Song Website.dll
